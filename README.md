@@ -1,8 +1,8 @@
-git clone 
-git status
-git add .
-git commit -m "pesanperubahn"
-git push
+- git clone 
+- git status
+- git add .
+- git commit -m "pesanperubahn"
+- git push
 
 
 apabila err
