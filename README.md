@@ -1,8 +1,12 @@
-# besar"#"
+git clone 
+git status
+git add .
+git commit -m "pesanperubahn"
+git push
 
-## sedang "##"
-moh 
-### kecil "###"
 
-saya muehehheh
-apa itu apap
+apabila err
+
+git fetch
+git merge
+git push
