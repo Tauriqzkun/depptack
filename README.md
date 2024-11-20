@@ -9,6 +9,7 @@ Menunjukkan status saat ini dari direktori kerja dan area staging Anda.
 Fungsi:
 
 Mengindikasikan perubahan mana yang sudah ditandai, belum ditandai, atau tidak terdeteksi.
+
 3. git add .
 Deskripsi:
 Menandai semua perubahan di direktori saat ini untuk komit berikutnya.
