@@ -1,1 +1,8 @@
-## Bebas aja dulu
+# besar"#"
+
+## sedang "##"
+
+### kecil "###"
+
+
+
