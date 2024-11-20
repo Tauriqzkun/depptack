@@ -1,4 +1,4 @@
-#Panduan Perintah Git Dasar
+# Panduan Perintah Git Dasar
 1. git clone
 Deskripsi:
 Membuat salinan dari repositori jarak jauh ke mesin lokal Anda.
