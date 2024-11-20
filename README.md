@@ -5,8 +5,8 @@
 - git push
 
 
-apabila err
+~apabila err~
 
-git fetch
-git merge
-git push
+- git fetch
+- git merge
+- git push
